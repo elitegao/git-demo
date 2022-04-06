@@ -3,4 +3,6 @@ holle gitee!
 
 holle gitee!
 
-set PORT=4000 && node app.jsset PORT=4000 && node app.jsset PORT=4000 && node app.jsset PORT=4000 && node app.jsset PORT=4000 && node app.jsset PORT=4000 && node app.jsset PORT=4000 && node app.js
+set PORT=4000 && node app.js
+
+hh
